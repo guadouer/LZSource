@@ -3,7 +3,7 @@ A CocoaPods Plugin.
 
 Lookup the source code of the dependency library managed by cocoapods when debugging the project.
 
-####cocoapods-lzsource 主要功能：
+#### cocoapods-lzsource 主要功能：
 
 * 下载源码仓库
 * 查看已经下载源码仓库
@@ -11,7 +11,7 @@ Lookup the source code of the dependency library managed by cocoapods when debug
 * 查询源码仓库信息
 * 重置用户 token 和 gitlab 服务器地址
 
-####cocoapods-lzsource 主要使用方式：
+#### cocoapods-lzsource 主要使用方式：
 
 * pod lzsource  keyword
 
