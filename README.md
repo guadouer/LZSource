@@ -40,3 +40,7 @@ keyword：想要下载的源码仓库名称
 * pod lzsource --reset
 
 重置用户 token 和 gitlab 服务器地址
+
+### Usage
+
+gem install cocoapods-lzsource
